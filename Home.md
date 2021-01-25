@@ -18,4 +18,6 @@ General Status update, outlining some implemented solutions and tools developed 
 ## Developer Wiki Index
 
 - [Introduction](./Introduction.md)
+- [Development Environment](./Dev-Environment.md)
+- [Folder Structure](./Folder-Structure.md)
 ---
