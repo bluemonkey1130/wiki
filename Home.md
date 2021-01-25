@@ -17,5 +17,5 @@ General Status update, outlining some implemented solutions and tools developed 
 
 ## Developer Wiki Index
 
-- [Introduction](/Introduction.md)
+- [Introduction](./Introduction.md)
 ---
