@@ -1,42 +1,21 @@
-# Welcome
+# Upgrade program
+### This repository is being used to develop the theme for the upgrade program.
+- The upgrade program is primarily a plan for upgrading outdated sites quickly
+- Each website will have different styling based on themes (corporate, services)
+- A new website should aim to be completed in 3 days
+- The different themes are intended to support the perceived use cases of clients.
+- The idea of the theme is to be able to easily add new components and update features as needed in the future
 
-Welcome to your wiki! This is the default page we've installed for your convenience. Go ahead and edit it.
+## [Component Functional Scoping >](https://docs.google.com/document/d/1BbPL5hwn4lK5fKR4nvVt-kzgaPqVN-wXULat_n5yq4A/edit?usp=sharing)
+This is the initial document used to plan the site structure and themes based on the figma visuals
 
-## Wiki features
+## [Template Wireframes >](https://www.figma.com/file/i34Ebt572MBLUuw1klRdgn/Upgrade-Program---Structure?node-id=0%3A1)
+These visuals are used to document the options and variations between themes, also used to generally document design changes to help support further development
 
-This wiki uses the [Markdown](http://daringfireball.net/projects/markdown/) syntax. The [MarkDownDemo tutorial](https://bitbucket.org/tutorials/markdowndemo) shows how various elements are rendered. The [Bitbucket documentation](https://confluence.atlassian.com/x/FA4zDQ) has more information about using a wiki.
+## [Upgrade Program >](https://docs.google.com/document/d/1hUc3iErqDk1KnxuXJdlN39i7MTz7X-MugNStVzPBPfg/edit?usp=sharing)
+General Status update, outlining some implemented solutions and tools developed for the site.
 
-The wiki itself is actually a git repository, which means you can clone it, edit it locally/offline, add images or any other file type, and push it back to us. It will be live immediately.
+## Developer Wiki Index
 
-Go ahead and try:
-
-```
-$ git clone https://bitbucket.org/versegroup/upgrade-theme.git/wiki
-```
-
-Wiki pages are normal files, with the .md extension. You can edit them locally, as well as creating new ones.
-
-## Syntax highlighting
-
-
-You can also highlight snippets of text (we use the excellent [Pygments][] library).
-
-[Pygments]: http://pygments.org/
-
-
-Here's an example of some Python code:
-
-```
-#!python
-
-def wiki_rocks(text):
-    formatter = lambda t: "funky"+t
-    return formatter(text)
-```
-
-
-You can check out the source of this page to see how that's done, and make sure to bookmark [the vast library of Pygment lexers][lexers], we accept the 'short name' or the 'mimetype' of anything in there.
-[lexers]: http://pygments.org/docs/lexers/
-
-
-Have fun!
+- [Introduction](/Introduction.md)
+---
